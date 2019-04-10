@@ -259,6 +259,12 @@ footer{
       display: block;
     }
     .webItem{
+      .half{
+        &:first-child{
+          padding-top: 10px;
+          padding-right: 0px;
+        }
+      }
       h4{
         margin-bottom: 20px;
         font-size: 20px;
