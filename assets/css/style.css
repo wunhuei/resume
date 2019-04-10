@@ -287,6 +287,10 @@ footer p {
     width: 100%;
     display: block;
   }
+  #Introduction .webItem .half:first-child {
+    padding-top: 10px;
+    padding-right: 0px;
+  }
   #Introduction .webItem h4 {
     margin-bottom: 20px;
     font-size: 20px;
