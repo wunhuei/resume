@@ -108,6 +108,10 @@ article{
       font-size: 15px;
       color: #9b9b9b;
       letter-spacing: 1px;
+      &.orange{
+        color: #ed737c;
+
+      }
     }
   }
   ul{
@@ -290,16 +294,20 @@ footer{
       display: none;
     }
   }
+  #header{
+    padding-top: 40px;
+    margin-bottom: 15px;
+  }
   #Introduction{
     .content{
-      margin-bottom: 30x;
+      margin-bottom: 10px;
       .half-3{
         width: 31%;
         &:nth-of-type(1){
-          width: 34%;
+          width: 35%;
         }
         &:nth-of-type(4){
-          width: 34%;
+          width: 35%;
         }
       }
     }

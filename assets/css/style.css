@@ -131,6 +131,10 @@ article {
   letter-spacing: 1px;
 }
 
+#Introduction h4 span.orange {
+  color: #ed737c;
+}
+
 #Introduction ul {
   margin-bottom: 28px;
 }
@@ -309,17 +313,21 @@ footer p {
   .gray-bg a {
     display: none;
   }
+  #header {
+    padding-top: 40px;
+    margin-bottom: 15px;
+  }
   #Introduction .content {
-    margin-bottom: 30x;
+    margin-bottom: 10px;
   }
   #Introduction .content .half-3 {
     width: 31%;
   }
   #Introduction .content .half-3:nth-of-type(1) {
-    width: 34%;
+    width: 35%;
   }
   #Introduction .content .half-3:nth-of-type(4) {
-    width: 34%;
+    width: 35%;
   }
   #Introduction h4 {
     font-size: 16px;
